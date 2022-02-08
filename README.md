@@ -19,3 +19,7 @@ It is a special case of BSS (Blind Source Separation) and the goal is to decompo
 ### Result
 
 There will be a folder created in current directory "ICA Components", which contains the individual sources and plots for reference.
+
+### Note
+
+The code accepts only two components means two observations. If we need to extract more components, have to modify slightly.
