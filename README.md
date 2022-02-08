@@ -8,7 +8,9 @@ It is a special case of BSS (Blind Source Separation) and the goal is to decompo
 - ica.py : ICA implementation using FastICA Sklearn library
 - FastICA.ipynb : Jupyter notebook
 - FastICAS.ipynb : Simple code without audio and given as example in Sklearn
-- 
+- Input1.zip and Input2.zip : Contains the inputs and results obtained
+- MusicDominated.wav, VoiceDominated.wav are the observed signals and voice_comp.wav, music_comp.wav are the extracted components used in presentation
+- Presentation.key: PPT
 
 ### Usage
 
